@@ -1,5 +1,5 @@
 # WeatherApp
-Weather App created by Pritam in python
+Weather App created by Pritam in python ##Only works for windows OS
 
 Modules used in python :- win32.com,requests,json
 
